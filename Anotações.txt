@@ -8,21 +8,23 @@ O Node.js faz parte do JAVAs mas dentro do servidor. O electronJS é utilizado n
 
 É padronizada, bem atualizada e com uma fort comunidade. 
 
+________________________________________________
 
-//Primeiro passo é instalar a IDE, segundo é instalar o nodeJS
-*
-console.log('Hello World')
+*Definição e tipos de dados:
 
-var nome = "Mário"
-var sobrenome = "Silva"
+Dados são valores/caracteristicas que atribuimos a algo, no JS os dados das variáveis são mais fáceis de atribuir.
 
-console.log(nome + " " + sobrenome)
-*
-var num01 = 10
-var num02 = 20 
 
-function somar (a,b) {
-    return a + b;
-}
+*Tipos de dados: Boolean (V ou F), Undefined(Sem definição), Null (Valor Nulo), Number (Números), String(Dados de texto), Symbol(Função que armazena valor único, chave de objeto ou objetos anônimos.)
 
-console.log (somar(num01, num02))
+________________________________________________
+
+*Variáveis e tipagem em JavaScript.
+
+Var.: Espaço alocado na memória para guardar o dado, não podendo armezenar mais de um dado ao mesmo tempo. Começando com letras minusculas e não é tipada, ou seja, não precisa dizer que tipo é a variável.
+
+Ex: var nome = "Mário"
+
+
+
+
