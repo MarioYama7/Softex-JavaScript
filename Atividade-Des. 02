@@ -1,8 +1,8 @@
 
 //Utilizados no cotidiano:
 
-//01. Balança digital: Dados do peso de um alimento/ingrediente; 
-//02. Fita métrica: Medição de altura, largura, centímetros e dentre outros.; e 
+//01. Balança digital: Dados do peso de um alimento/ingrediente (Number); 
+//02. Fita métrica: Medição de altura, largura, centímetros e dentre outros (Number); e 
 //03. Câmera de Smartphone: Adiciono uma nova imagem a uma galeria, um novo dado par uma variavel de imagem.
 
 //Utilizados na internet:
