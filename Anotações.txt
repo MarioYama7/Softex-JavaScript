@@ -25,6 +25,7 @@ Var.: Espaço alocado na memória para guardar o dado, não podendo armezenar ma
 
 Ex: var nome = "Mário"
 
+________________________________________________
 
 
 
