@@ -1,0 +1,28 @@
+*****************JAVASCRIPT*********************
+
+Sua principal é permitir implementar itens mais complexos em um site, mais voltado quando há uma interação. A linguagem é de código aberto.
+
+Utilizado no Front e Back-end. O F é na própria máquina e o Back é no Servidor.
+
+O Node.js faz parte do JAVAs mas dentro do servidor. O electronJS é utilizado no Desktop.
+
+É padronizada, bem atualizada e com uma fort comunidade. 
+
+
+//Primeiro passo é instalar a IDE, segundo é instalar o nodeJS
+*
+console.log('Hello World')
+
+var nome = "Mário"
+var sobrenome = "Silva"
+
+console.log(nome + " " + sobrenome)
+*
+var num01 = 10
+var num02 = 20 
+
+function somar (a,b) {
+    return a + b;
+}
+
+console.log (somar(num01, num02))
