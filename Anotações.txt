@@ -27,5 +27,25 @@ Ex: var nome = "Mário"
 
 ________________________________________________
 
+*ECMAScript.
+
+É uma associação de padronização de sistemas de informação. Sua finalidade é padronizar e uniformizar os códigos para que seja possível rodar em qualquer navegador.
+
+Em resumo, é como se o ECMAScript fosse a receita de um bolo e o JavaScript fosse o bolo de verdade, em sua forma mais pura e fiel à receita original. ActionScript, UnityScript e JScript seriam os “outros sabores”.
+
+________________________________________________
+
+*Operadores: Lógicos, de igualdade e relacionais.
+
+Lógicos: e/ou/não
+
+Relacionais: ==, !=, <, >, <=, >=.
+
+Igualdade: === ou !==
+Estritamente, o símbolo “===” significa igualdade, ou seja, ele deve ser totalmente igual em caso de objetos, não só em quantidade, mas em tamanho e informações.
+
+Temos, também, o “!==” que significa completamente diferente.
+
+
 
 
