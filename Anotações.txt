@@ -47,5 +47,27 @@ Estritamente, o símbolo “===” significa igualdade, ou seja, ele deve ser to
 Temos, também, o “!==” que significa completamente diferente.
 
 
+________________________________________________
+
+*Operadores de Atribuição:
+
++=, -=, /=, *= e %=, podem ser feitos em incremento ou decremento.
+
+________________________________________________
+
+*JSON:
+
+É uma notação de objetos no JS, um formato simples de troca entre informações num sistema. É como uma ponte de ligação entre os sistemas, ex: se eu uso um sistema que precise do maps do google ou de um CEP. Para criar uma JSON, algumas regras devem ser seguidas: ela não pode ter funções nem comentários; as propriedades de textos sempre tem aspas duplas.
+
+________________________________________________
+
+*Frameworks para JS:
+
+Uma ferramente que auxilia no desenvolvimento de um projeot, como se fosse um biblioteca de partes de códigos.
+
+
+
+
+
 
 
