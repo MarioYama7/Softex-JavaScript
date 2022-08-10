@@ -5,8 +5,9 @@ function carro() {
   }
  
  /*Tradicional com parâmetros*/
- function y (a, b) {
-     return a - b
+ function subtracao (a, b) {
+     var resultado = a - b;
+     console.log(resultao);
  }
  
  /*arrow com parametros*/
