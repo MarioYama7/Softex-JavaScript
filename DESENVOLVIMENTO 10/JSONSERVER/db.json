@@ -1,0 +1,16 @@
+{
+  "identificação": [
+    {
+      "id": 1,
+      "nome": "Mário",
+      "idade": 25
+    }
+  ]
+}
+
+//Para rodar, elimine os comentários//
+
+//O primeiro passo é instalar o JSON no CMD npm install -g json-server (json-server --watch "nome do arquivo".json)//
+//O segundo é criar um arquivo na extensão JSON//
+//O terceiro é no CMD pegar o local host/endereço para rodar na aplicação (json-server --watch "nome do arquivo".json) //
+//No Postman tem como fazer todos os Métodos//

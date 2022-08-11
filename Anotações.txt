@@ -85,7 +85,13 @@ O seu intuito é permitir a diminuição de uma função.
 ________________________________________________
 
 
+*Métodos http:
 
+Comunicação entre o Front e o Back. Métodos mais utilizados são: GET, POST, PUT e DELETE.
+
+Pode precisar de algumas bibliotecas como a express.
+
+- Instalar J-SON, depois colocar no CMD j-son server --watch dn.json 
 
 
 
