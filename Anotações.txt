@@ -66,6 +66,26 @@ ________________________________________________
 Uma ferramente que auxilia no desenvolvimento de um projeot, como se fosse um biblioteca de partes de códigos.
 
 
+________________________________________________
+
+*Functions em JAVASCRIPT:
+
+Conjunto de instruções que executam uma tarefa, necessária quando um mesmo procedimento se repete.
+
+Dentro do JS existe uma forma que é o CALLBACK, um tipo de função que só é executada após o término de uma outra, pois, no JS as funções naturalmente são executadas ao mesmo tempo, independente de ordem.
+
+
+________________________________________________
+
+*Arrow Functions:
+
+O seu intuito é permitir a diminuição de uma função.
+
+
+________________________________________________
+
+
+
 
 
 
