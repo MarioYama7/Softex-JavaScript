@@ -14,7 +14,7 @@ const propriedades = () => {console.log("A massa do bolo é de: " +
 }
 
 /*Construção do Array*/
-const arr1 = () => {
+function arr1() {
     return ["Mário", "Roberto", "Ana"]
 }
 

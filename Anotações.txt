@@ -93,6 +93,20 @@ Pode precisar de algumas bibliotecas como a express.
 
 - Instalar J-SON, depois colocar no CMD j-son server --watch dn.json 
 
+________________________________________________
+
+*Estrutura de repetição:
+
+For in: Cria um loop para percorrer os objetos, acessa as propriedades, os índices.
+
+For off: Cria um loop pelo array por completo, acessa os valores de uma estrutura de dados.
+
+________________________________________________
+
+*Banco de dados com JavaScript
+
+É utilizado sequelize com o banco de dados MYSQL
+
 
 
 
